@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "fried.aternos.me",
-    "port": 48615,
+    "ip": "naplayerofficial.aternos.me",
+    "port": 43499,
     "version": "26.2",
     "try-creative": false
   },
